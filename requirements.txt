@@ -4,7 +4,7 @@ pip install langchain-google-genai
 pip install langchain_community 
 pip install pypdf 
 pip install chromadb 
-pip install sentence-transformers -q
+pip install sentence-transformers
 pip install google-generativeai 
-pip install pdfplumber -q
+pip install pdfplumber
 pip install streamlit
